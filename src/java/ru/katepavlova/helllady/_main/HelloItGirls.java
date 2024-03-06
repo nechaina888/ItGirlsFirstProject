@@ -1,4 +1,4 @@
-package ru.katepavlova.helloapp._main;
+package ru.katepavlova.helllady._main;
 
 public class HelloItGirls {
     public static void main(String[] args) {
